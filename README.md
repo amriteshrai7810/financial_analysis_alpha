@@ -12,6 +12,10 @@
 3. Sensitivity Analysis: Assessing returns across different assumptions and scenarios.
 
 4. Equity Returns: Calculating projected Internal Rate of Return (IRR) for stakeholders.
+   
+5. SWOT Analysis: Conducted a detailed SWOT analysis of the car rental sector, the core business of Alpha Private Limited.
+   
+6. Report Design: Designed a comprehensive report explaining all financial performance metrics for clarity and strategic insights.
 
 <b> Usage </b>
 
